@@ -13,9 +13,9 @@
 
 **`Analista de Datos · Full Stack Jr · Builder`**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel_Salvador-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/emmanuel-salvador-rivera)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel_Salvador-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/emmanuel-salvador-rivera-mendoza-442092142/)
 [![Email](https://img.shields.io/badge/Email-emmanuelsalvadoriveramenodza@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:emmanuelsalvadoriveramenodza@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_Proyectos-000000?style=flat-square&logo=vercel)](https://github.com/SalvadoRivera)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_Proyectos-000000?style=flat-square&logo=vercel)](https://salvatorepop.github.io/)
 ![Location](https://img.shields.io/badge/📍_Ecatepec,_México-willing_to_relocate-4CAF50?style=flat-square)
 
 </div>
@@ -29,7 +29,7 @@ perfil = {
     "nombre":     "Emmanuel Salvador Rivera Mendoza",
     "rol":        ["Analista de Datos", "Full Stack Jr", "DB Manager"],
     "stack":      ["Java", "Python", "SQL", "React", "Power BI"],
-    "actualmente": "Bootcamp Java Full Stack Jr @ Generation México",
+    "actualmente": "Java Full Stack and Data Analyst Jr @ Generation México",
     "buscando":   "Equipo donde combinar programación + análisis de datos",
     "idiomas":    {"Español": "nativo", "Inglés": "B1"},
 }
