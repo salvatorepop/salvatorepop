@@ -116,7 +116,7 @@ perfil = {
 |-----|------------|----------|
 | 2026 | Generation México      | Bootcamp Java Full Stack Jr - 424hrs |
 | 2026 | Universidad de Palermo | Certificado “Business Intelligence & Analytics” - 13hrs |
-| 2026 | UVM                    | Diplomado Data Analytics — 244 hrs |*(en curso)*
+| 2026 | UVM                    | Diplomado Data Analytics — 244 hrs *(en curso)* |
 | 2026 | Accenture              | Introducción a Java — 5 hrs |
 | 2025 | UNAM                   | Ingeniería en Eléctrica y Electrónica |
 | 2025 | Udemy                  | Desarrollador Full Stack — 122 hrs |
