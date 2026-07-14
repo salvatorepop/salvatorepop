@@ -68,7 +68,7 @@ perfil = {
 ### 🛒 E-commerce · Mensajería Total S.A. de C.V.
 > Plataforma de logística para cotización, rastreo y programación de envíos
 
-`React` `HTML/CSS` `JavaScript` `SCRUM` `GitHub` `Jira` `Figma`
+`HTML/CSS` `JavaScript` `SCRUM` `GitHub` `Jira` `Figma`
 
 - Diseñé la UX completa para el flujo de cotización y rastreo de paquetes
 - Implementé frontend responsive adaptado a múltiples dispositivos
