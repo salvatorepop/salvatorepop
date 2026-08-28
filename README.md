@@ -14,7 +14,7 @@
 **`Analista de Datos · Full Stack Jr · Builder`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel_Salvador-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/emmanuel-salvador-rivera-mendoza-442092142/)
-[![Email](https://img.shields.io/badge/Email-emmanuelsalvadoriveramenodza@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:emmanuelsalvadoriveramenodza@gmail.com)
+[![Email](https://img.shields.io/badge/Email-emmanuelsalvadoriveramenodza@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:emmanuelsalvadoriveramendoza@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Ver_Proyectos-000000?style=flat-square&logo=vercel)](https://salvatorepop.github.io/)
 ![Location](https://img.shields.io/badge/📍_Ecatepec,_México-willing_to_relocate-4CAF50?style=flat-square)
 
@@ -137,7 +137,7 @@ perfil = {
 
 **¿Tienes un proyecto interesante? Escríbeme 👇**
 
-[![Email](https://img.shields.io/badge/Contactar-emmanuelsalvadoriveramenodza@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:emmanuelsalvadoriveramenodza@gmail.com)
+[![Email](https://img.shields.io/badge/Contactar-emmanuelsalvadoriveramenodza@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:emmanuelsalvadoriveramendoza@gmail.com)
 
 </div>
 
